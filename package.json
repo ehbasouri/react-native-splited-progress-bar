@@ -1,0 +1,19 @@
+{
+  "name": "react-native-splited-progress-bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehbasouri/react-native-splited-progress-bar.git"
+  },
+  "author": "ehsan basouri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehbasouri/react-native-splited-progressbar/issues"
+  },
+  "homepage": "https://github.com/ehbasouri/react-native-splited-progressbar#readme"
+}
