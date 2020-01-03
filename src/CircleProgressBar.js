@@ -112,7 +112,7 @@ class CircleProgressBar extends Component {
   }
 }
 
-export default CircleProgressBar;
+export {CircleProgressBar};
 
 function CircleProgressBarHoc(condition, cm1, cm2) {
   if (condition) {
