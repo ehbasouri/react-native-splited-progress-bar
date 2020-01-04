@@ -39,7 +39,7 @@ import {CircleProgressBar, ProgressBar} from 'react-native-splited-progress-bar'
 | ---------------------- | --------------------------------------------------------------- | ---------------------- |
 | **`percentage`**       | number of percentage                                            | `0`                    |
 | **`size`**             | size of progress bar to show in app                             | `100`                  |
-| **`splited`**          | splited progressbar or not                                      | `true`                 |
+| **`splited`**          | splited progressbar or not                                      | `false`                 |
 | **`compeletedColor`**  | Color of the circle.                                            | `#39bc65`              |
 | **`inCompeletedColor`**| Color of the inCompeleted area.                                 | `#C1C1C1`              |
 | **`isRtl`**            | for Rtl application                                             | `false`                |
