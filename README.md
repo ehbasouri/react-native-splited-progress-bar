@@ -15,7 +15,7 @@ import {CircleProgressBar} from 'react-native-splited-progress-bar';
 />
 ```
 
-### `Progress.CircleSnail`
+### `CircleProgressBar`
 
 | Prop                   | Description                                                     | Default                |
 | ---------------------- | --------------------------------------------------------------- | ---------------------- |
