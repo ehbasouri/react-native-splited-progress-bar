@@ -53,6 +53,7 @@ class CircleProgressBar extends Component {
           backgroundColor: '#fff',
           width: circle_width,
           height: circle_width,
+          borderRadius: 100
         }}>
         <View
           style={{
