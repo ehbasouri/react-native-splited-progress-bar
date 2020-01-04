@@ -1,5 +1,7 @@
 # react-native-splited-progress-bar
 
+![CircleProgressBar](https://user-images.githubusercontent.com/36489841/71761365-421cf480-2edf-11ea-86d0-c1e897e7da67.jpg)
+
 ## Installation
 
 `$ npm install react-native-splited-progress-bar --save`
