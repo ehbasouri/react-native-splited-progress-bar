@@ -60,13 +60,13 @@ class CircleProgressBar extends Component {
             alignItems: 'center',
             justifyContent: 'center',
             backgroundColor: '#fff',
-            width: circle_width - circle_width / 10,
-            height: circle_width - circle_width / 10,
-            borderRadius: (circle_width - circle_width / 10) / 2,
+            width: (circle_width - circle_width / 10)- 2,
+            height: (circle_width - circle_width / 10) - 2,
+            borderRadius: ((circle_width - circle_width / 10)) / 2,
             zIndex: 10,
             position: 'absolute',
-            top: circle_width / 20 + 1,
-            left: circle_width / 20,
+            top: circle_width / 20 + 2,
+            left: circle_width / 20 + 1,
           }}>
           {CircleProgressBarHoc(
             innerComponent,
